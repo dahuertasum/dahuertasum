@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy David 👋</h1>
+<h1 align="center">¡Hola! Soy Daniel Huertas Umaña 👋</h1>
 
 <p align="center">
   <b>Desarrollador de automatizaciones, bots e integraciones con IA</b><br>
