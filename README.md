@@ -19,6 +19,12 @@
 - **Web scraping y extracción de datos** — recolección automática de precios, leads o información pública.
 - **Desarrollo web** — sitios y paneles a medida (HTML, CSS, Bootstrap, JavaScript, Python).
 
+### 🔭 En qué estoy trabajando ahora
+
+- 📊 Aprendiendo análisis de datos end-to-end: **Python + SQL + Excel + Power BI**, con un proyecto de limpieza de datos de ventas.
+- 🤖 Sumando integración de IA a mis proyectos de automatización.
+- 💼 Disponible para proyectos freelance de bots, automatización y desarrollo web.
+
 ### 🛠️ Stack
 
 <p align="left">
@@ -35,9 +41,13 @@
 
 | Proyecto | Descripción |
 |---|---|
-| 🗂️ [GestordeActivos](https://github.com/dahuertasum/GestordeActivos) | Gestor de activos con backend en Python y frontend web. |
-| 💻 [Proyecto_DigitalSolution](https://github.com/dahuertasum/Proyecto_DigitalSolution) | Gestor de activos desarrollado con Python y frontend web. |
-> *(Actualizando esta lista a medida que suba nuevos proyectos de automatización y bots)*
+| 🧹 [ai-data-cleaner](https://github.com/dahuertasum/ai-data-cleaner) | App de limpieza de datos con CLI y web (Streamlit), sumando integración de IA para reportes automáticos. |
+| 🤖 [bot-atencion-cliente](https://github.com/dahuertasum/bot-atencion-cliente) | Bot de atención al cliente para Telegram con IA (Claude). |
+| 💬 [bot-whatsapp-atencion-cliente](https://github.com/dahuertasum/bot-whatsapp-atencion-cliente) | Bot de atención al cliente para WhatsApp, integrando la API de Meta con IA. |
+| 🎉 [EventHub](https://github.com/dahuertasum/REEMPLAZAR-CON-EL-NOMBRE-REAL) | Plataforma web de gestión y promoción de eventos (HTML, CSS, Bootstrap, JS). |
+| 🥖 [PanArte](https://github.com/gvelascop/Hornitos) | Landing reconstruida con React y React Router, inspirada en una marca real. |
+
+> *(Actualizando esta lista a medida que suba nuevos proyectos)*
 
 ### 📊 Actividad
 
@@ -49,13 +59,13 @@
 ### 📬 Contacto
 
 <p align="left">
-  <a href="mailto:udaniel2008@hotmail.com">
+  <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/573173816078">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/daniel-armando-huertas-umaña-691143382">
+  <a href="https://www.linkedin.com/in/tu-usuario">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
